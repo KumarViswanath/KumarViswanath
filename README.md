@@ -10,17 +10,17 @@
 
 If you're interested in analysis stuff, feel free to ask me anything! I have experience with:
 
-- Statistical analysis
+- Python
 - Machine learning
-- Data visualization
+- Visualization
 
-I'm passionate about diving deep into data and extracting insights that can drive decision-making. Thanks for visiting my profile, and don't hesitate to reach out if you have any questions or just want to say hi!
+Exploring data and deriving meaningful insights to support decision-making is my passion. Thank you for visiting my profile. Please feel free to get in touch with me if you have any questions or would like to connect.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameswaram-kumar-viswanath-576a43240/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/kumarviswanath)  [![HackerRank](https://img.shields.io/badge/HackerRank-%23000000.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/kumarviswanathr)
 
-# 💻 Tech Stack:
+# 💻 Technical stuff:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 <img src="https://img.shields.io/badge/Machine_Learning-6B46C1?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
