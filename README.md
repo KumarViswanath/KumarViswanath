@@ -1,4 +1,4 @@
-<p  align="center"><img src = "suryasundarkumars@gmail.com.gif"></p>
+<p  align="center"><img src = "Intro Git.gif"></p>
 
 # Hi there, I am Viswanath! 👋
 
